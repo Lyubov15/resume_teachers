@@ -15,7 +15,8 @@
 - **API и интеграция:** REST API, Яндекс.Карты API, GREEN-API.
 - **Дизайн:** Adobe Photoshop, Figma, UX/UI.
 - **Базы данных:** SQLite, MySQL, PostgreSQL / PostGIS.
-- **Дизайн:** Node.js.
+- **Backend:** Node.js.
+- **Развёртывание:** GitHub Pages, Vercel, настройка домена и хостинга.
 
 ## Образование и переподготовки
 
